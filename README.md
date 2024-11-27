@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Fygie
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me florianchiaradonna@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: :)
