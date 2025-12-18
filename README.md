@@ -1,25 +1,29 @@
-# Salut, moi c'est Florian ! 
+Software Development Student
+Currently seeking a 10-week internship in software development (Full-time / On-site).
 
-Étudiant en **BTS SIO (Services Informatiques aux Organisations)**, option **SLAM** (Solutions Logicielles et Applications Métier).
+Technical Skills
 
-Je suis actuellement à la recherche d'un **stage de 10 semaines en développement informatique**.
+Front-End: HTML5, CSS3 (Flexbox, Grid), JavaScript (ES6+). 
 
----
 
-### 🚀 Mes Compétences Techniques (En cours d'acquisition)
+Back-End: PHP (Object-Oriented Programming), MVC Architecture. 
 
-**Front-End :** HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+).
-**Back-End :** PHP (Programmation Orientée Objet), architecture MVC.
-**Bases de données :** SQL / MySQL (Conception MCD/MLD et requêtes complexes).
-**Outils & Méthodologie :** Git/GitHub, UML, tests unitaires et documentation technique.
 
-### 🛠️ Pourquoi me choisir ?
-**Autonomie & Discipline :** Formation à distance via le CNED, ce qui m'oblige à une grande rigueur et une veille constante.
-**Esprit d'analyse :** Capacité à décomposer des problèmes complexes pour coder des solutions propres.
-**Anglais :** Niveau C1 (lu, écrit, parlé), idéal pour la documentation technique.
+Databases: SQL, MySQL (Schema design, complex queries). 
 
----
 
-### 📫 Me contacter
+Tools: Git, GitHub, UML, Technical Documentation. 
 
-**Email :** [florianchiaradonna@gmail.com](mailto:florianchiaradonna@gmail.com)
+Professional Profile
+
+Problem Solving: Ability to deconstruct complex technical issues into actionable tasks. 
+
+
+Analytical Mindset: Focus on writing clean, maintainable code and following standards. 
+
+
+Communication: Fluent in English (C1 level), capable of working with technical documentation and international teams. 
+
+Contact
+
+Email: florianchiaradonna@gmail.com
