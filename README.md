@@ -24,6 +24,6 @@ Currently seeking a 10-week internship in software development (Full-time / On-s
 
 * **Communication**: Fluent in English (C1 level), capable of working with technical documentation and international teams. 
 
-**Contact**
+### Contact
 
-Email: flochdnn@gmail.com
+**Email:** flochdnn@gmail.com
