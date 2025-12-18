@@ -1,7 +1,7 @@
 **Software Development Student**
 Currently seeking a 10-week internship in software development (Full-time / On-site).
 
-Technical Skills
+**Technical Skills**
 
 **Front-End**: HTML5, CSS3 (Flexbox, Grid), JavaScript (ES6+). 
 
