@@ -1,29 +1,29 @@
-Software Development Student
+**Software Development Student**
 Currently seeking a 10-week internship in software development (Full-time / On-site).
 
 Technical Skills
 
-Front-End: HTML5, CSS3 (Flexbox, Grid), JavaScript (ES6+). 
+**Front-End**: HTML5, CSS3 (Flexbox, Grid), JavaScript (ES6+). 
 
 
-Back-End: PHP (Object-Oriented Programming), MVC Architecture. 
+**Back-End**: PHP (Object-Oriented Programming), MVC Architecture. 
 
 
-Databases: SQL, MySQL (Schema design, complex queries). 
+**Databases**: SQL, MySQL (Schema design, complex queries). 
 
 
-Tools: Git, GitHub, UML, Technical Documentation. 
+**Tools**: Git, GitHub, UML, Technical Documentation. 
 
-Professional Profile
+**Professional Profile**
 
-Problem Solving: Ability to deconstruct complex technical issues into actionable tasks. 
-
-
-Analytical Mindset: Focus on writing clean, maintainable code and following standards. 
+**Problem Solving**: Ability to deconstruct complex technical issues into actionable tasks. 
 
 
-Communication: Fluent in English (C1 level), capable of working with technical documentation and international teams. 
+**Analytical Mindset**: Focus on writing clean, maintainable code and following standards. 
 
-Contact
+
+**Communication**: Fluent in English (C1 level), capable of working with technical documentation and international teams. 
+
+**Contact**
 
 Email: florianchiaradonna@gmail.com
