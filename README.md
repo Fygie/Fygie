@@ -26,4 +26,4 @@ Technical Skills
 
 **Contact**
 
-Email: florianchiaradonna@gmail.com
+Email: flochdnn@gmail.com
